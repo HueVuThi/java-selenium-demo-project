@@ -1,0 +1,289 @@
+2022-08-20 15:47:23,516 INFO  commons.BaseTest - ---------- Jitera---------------- STARTED test ----------
+2022-08-20 15:47:23,703 INFO  commons.BaseTest - Opening CHROME browser
+2022-08-20 15:47:31,728 INFO  commons.BaseTest - Opened CHROME browser successfully
+2022-08-20 15:47:39,548 INFO  commons.BaseTest - Navigated to https://demo.guru99.com/V4/ successfully
+2022-08-20 15:47:39,864 INFO  commons.WebKeywords - Switching window
+2022-08-20 15:47:39,986 INFO  commons.WebKeywords - Switched to window Guru99 Bank Home Page successfully
+2022-08-20 15:47:40,362 INFO  commons.BaseTest - ---------- Add_New_Customer_Account---------------- STARTED test ----------
+2022-08-20 15:47:40,364 INFO  commons.WebKeywords - Getting locator from element TXT_USER_ID
+2022-08-20 15:47:40,388 INFO  commons.WebKeywords - Got locator from element TXT_USER_ID. Locator is //input[@name='uid']
+2022-08-20 15:47:40,389 INFO  commons.WebKeywords - Finding web element TXT_USER_ID
+2022-08-20 15:47:40,421 INFO  commons.WebKeywords - Found 1 web element TXT_USER_ID 
+2022-08-20 15:47:40,592 INFO  commons.WebKeywords - Getting locator from element TXT_USER_ID
+2022-08-20 15:47:40,592 INFO  commons.WebKeywords - Got locator from element TXT_USER_ID. Locator is //input[@name='uid']
+2022-08-20 15:47:40,593 INFO  commons.WebKeywords - Finding web element TXT_USER_ID
+2022-08-20 15:47:40,607 INFO  commons.WebKeywords - Found 1 web element TXT_USER_ID 
+2022-08-20 15:47:40,608 INFO  commons.WebKeywords -  Scrolling into view element TXT_USER_ID
+2022-08-20 15:47:40,618 INFO  commons.WebKeywords - Scrolled into viewed  element TXT_USER_ID
+2022-08-20 15:47:40,619 INFO  commons.WebKeywords - Clearing web element 'TXT_USER_ID'
+2022-08-20 15:47:40,668 INFO  commons.WebKeywords - Cleared web element 'TXT_USER_ID' successfully
+2022-08-20 15:47:40,940 INFO  commons.WebKeywords - Set text mngr432928 to web element TXT_USER_ID successfully
+2022-08-20 15:47:40,941 INFO  commons.WebKeywords - Getting locator from element TXT_USER_PASSWORD
+2022-08-20 15:47:40,942 INFO  commons.WebKeywords - Got locator from element TXT_USER_PASSWORD. Locator is //input[@name='password']
+2022-08-20 15:47:40,942 INFO  commons.WebKeywords - Finding web element TXT_USER_PASSWORD
+2022-08-20 15:47:40,961 INFO  commons.WebKeywords - Found 1 web element TXT_USER_PASSWORD 
+2022-08-20 15:47:40,991 INFO  commons.WebKeywords - Getting locator from element TXT_USER_PASSWORD
+2022-08-20 15:47:40,992 INFO  commons.WebKeywords - Got locator from element TXT_USER_PASSWORD. Locator is //input[@name='password']
+2022-08-20 15:47:40,995 INFO  commons.WebKeywords - Finding web element TXT_USER_PASSWORD
+2022-08-20 15:47:41,010 INFO  commons.WebKeywords - Found 1 web element TXT_USER_PASSWORD 
+2022-08-20 15:47:41,010 INFO  commons.WebKeywords -  Scrolling into view element TXT_USER_PASSWORD
+2022-08-20 15:47:41,019 INFO  commons.WebKeywords - Scrolled into viewed  element TXT_USER_PASSWORD
+2022-08-20 15:47:41,020 INFO  commons.WebKeywords - Clearing web element 'TXT_USER_PASSWORD'
+2022-08-20 15:47:41,056 INFO  commons.WebKeywords - Cleared web element 'TXT_USER_PASSWORD' successfully
+2022-08-20 15:47:41,117 INFO  commons.WebKeywords - Set text AsAgUsE to web element TXT_USER_PASSWORD successfully
+2022-08-20 15:47:41,118 INFO  commons.WebKeywords - Getting locator from element BTN_LOGIN
+2022-08-20 15:47:41,119 INFO  commons.WebKeywords - Got locator from element BTN_LOGIN. Locator is //input[@name='btnLogin']
+2022-08-20 15:47:41,119 INFO  commons.WebKeywords - Finding web element BTN_LOGIN
+2022-08-20 15:47:41,134 INFO  commons.WebKeywords - Found 1 web element BTN_LOGIN 
+2022-08-20 15:47:41,134 INFO  commons.WebKeywords - Clicking web element BTN_LOGIN
+2022-08-20 15:47:41,159 INFO  commons.WebKeywords - Getting locator from element BTN_LOGIN
+2022-08-20 15:47:41,159 INFO  commons.WebKeywords - Got locator from element BTN_LOGIN. Locator is //input[@name='btnLogin']
+2022-08-20 15:47:41,160 INFO  commons.WebKeywords - Finding web element BTN_LOGIN
+2022-08-20 15:47:41,176 INFO  commons.WebKeywords - Found 1 web element BTN_LOGIN 
+2022-08-20 15:47:41,177 INFO  commons.WebKeywords -  Scrolling into view element BTN_LOGIN
+2022-08-20 15:47:41,193 INFO  commons.WebKeywords - Scrolled into viewed  element BTN_LOGIN
+2022-08-20 15:47:42,428 INFO  commons.WebKeywords - Clicked web element BTN_LOGIN successfully
+2022-08-20 15:47:42,429 INFO  commons.WebKeywords - Getting locator from element TXT_WELCOME
+2022-08-20 15:47:42,430 INFO  commons.WebKeywords - Got locator from element TXT_WELCOME. Locator is //marquee[@class='heading3' and contains(.,'Welcome')]
+2022-08-20 15:47:42,431 INFO  commons.WebKeywords - Finding web element TXT_WELCOME
+2022-08-20 15:47:42,446 INFO  commons.WebKeywords - Found 1 web element TXT_WELCOME 
+2022-08-20 15:47:42,460 INFO  commons.WebKeywords - Web element TXT_WELCOME is displayed
+2022-08-20 15:47:42,460 INFO  commons.BaseTest -  === PASSED === 
+2022-08-20 15:47:42,464 INFO  commons.WebKeywords - Getting locator from element LNK_NEW_CUSTOMER
+2022-08-20 15:47:42,465 INFO  commons.WebKeywords - Got locator from element LNK_NEW_CUSTOMER. Locator is //a[text()='New Customer']
+2022-08-20 15:47:42,465 INFO  commons.WebKeywords - Finding web element LNK_NEW_CUSTOMER
+2022-08-20 15:47:42,478 INFO  commons.WebKeywords - Found 1 web element LNK_NEW_CUSTOMER 
+2022-08-20 15:47:42,478 INFO  commons.WebKeywords - Clicking web element LNK_NEW_CUSTOMER
+2022-08-20 15:47:42,491 INFO  commons.WebKeywords - Getting locator from element LNK_NEW_CUSTOMER
+2022-08-20 15:47:42,491 INFO  commons.WebKeywords - Got locator from element LNK_NEW_CUSTOMER. Locator is //a[text()='New Customer']
+2022-08-20 15:47:42,491 INFO  commons.WebKeywords - Finding web element LNK_NEW_CUSTOMER
+2022-08-20 15:47:42,499 INFO  commons.WebKeywords - Found 1 web element LNK_NEW_CUSTOMER 
+2022-08-20 15:47:42,499 INFO  commons.WebKeywords -  Scrolling into view element LNK_NEW_CUSTOMER
+2022-08-20 15:47:42,507 INFO  commons.WebKeywords - Scrolled into viewed  element LNK_NEW_CUSTOMER
+2022-08-20 15:47:43,262 INFO  commons.WebKeywords - Clicked web element LNK_NEW_CUSTOMER successfully
+2022-08-20 15:47:43,264 INFO  commons.WebKeywords - Getting locator from element TXT_CUSTOMER_NAME
+2022-08-20 15:47:43,265 INFO  commons.WebKeywords - Got locator from element TXT_CUSTOMER_NAME. Locator is //input[@name='name']
+2022-08-20 15:47:43,265 INFO  commons.WebKeywords - Finding web element TXT_CUSTOMER_NAME
+2022-08-20 15:47:43,295 INFO  commons.WebKeywords - Found 1 web element TXT_CUSTOMER_NAME 
+2022-08-20 15:47:43,613 INFO  commons.WebKeywords - Getting locator from element TXT_CUSTOMER_NAME
+2022-08-20 15:47:43,614 INFO  commons.WebKeywords - Got locator from element TXT_CUSTOMER_NAME. Locator is //input[@name='name']
+2022-08-20 15:47:43,614 INFO  commons.WebKeywords - Finding web element TXT_CUSTOMER_NAME
+2022-08-20 15:47:43,627 INFO  commons.WebKeywords - Found 1 web element TXT_CUSTOMER_NAME 
+2022-08-20 15:47:43,628 INFO  commons.WebKeywords -  Scrolling into view element TXT_CUSTOMER_NAME
+2022-08-20 15:47:43,639 INFO  commons.WebKeywords - Scrolled into viewed  element TXT_CUSTOMER_NAME
+2022-08-20 15:47:43,639 INFO  commons.WebKeywords - Clearing web element 'TXT_CUSTOMER_NAME'
+2022-08-20 15:47:43,675 INFO  commons.WebKeywords - Cleared web element 'TXT_CUSTOMER_NAME' successfully
+2022-08-20 15:47:43,721 INFO  commons.WebKeywords - Set text hue vu thi to web element TXT_CUSTOMER_NAME successfully
+2022-08-20 15:47:43,722 INFO  commons.WebKeywords - Getting locator from element DPK_DATE_OF_BIRTH
+2022-08-20 15:47:43,723 INFO  commons.WebKeywords - Got locator from element DPK_DATE_OF_BIRTH. Locator is //input[@id='dob']
+2022-08-20 15:47:43,723 INFO  commons.WebKeywords - Finding web element DPK_DATE_OF_BIRTH
+2022-08-20 15:47:43,734 INFO  commons.WebKeywords - Found 1 web element DPK_DATE_OF_BIRTH 
+2022-08-20 15:47:43,747 INFO  commons.WebKeywords - Getting locator from element DPK_DATE_OF_BIRTH
+2022-08-20 15:47:43,748 INFO  commons.WebKeywords - Got locator from element DPK_DATE_OF_BIRTH. Locator is //input[@id='dob']
+2022-08-20 15:47:43,748 INFO  commons.WebKeywords - Finding web element DPK_DATE_OF_BIRTH
+2022-08-20 15:47:43,757 INFO  commons.WebKeywords - Found 1 web element DPK_DATE_OF_BIRTH 
+2022-08-20 15:47:43,757 INFO  commons.WebKeywords -  Scrolling into view element DPK_DATE_OF_BIRTH
+2022-08-20 15:47:43,763 INFO  commons.WebKeywords - Scrolled into viewed  element DPK_DATE_OF_BIRTH
+2022-08-20 15:47:43,764 INFO  commons.WebKeywords - Clearing web element 'DPK_DATE_OF_BIRTH'
+2022-08-20 15:47:43,789 INFO  commons.WebKeywords - Cleared web element 'DPK_DATE_OF_BIRTH' successfully
+2022-08-20 15:47:43,882 INFO  commons.WebKeywords - Set text 14/09/1994 to web element DPK_DATE_OF_BIRTH successfully
+2022-08-20 15:47:43,883 INFO  commons.WebKeywords - Getting locator from element TXA_ADDRESS
+2022-08-20 15:47:43,884 INFO  commons.WebKeywords - Got locator from element TXA_ADDRESS. Locator is //textarea[@name='addr']
+2022-08-20 15:47:43,885 INFO  commons.WebKeywords - Finding web element TXA_ADDRESS
+2022-08-20 15:47:43,912 INFO  commons.WebKeywords - Found 1 web element TXA_ADDRESS 
+2022-08-20 15:47:43,939 INFO  commons.WebKeywords - Getting locator from element TXA_ADDRESS
+2022-08-20 15:47:43,940 INFO  commons.WebKeywords - Got locator from element TXA_ADDRESS. Locator is //textarea[@name='addr']
+2022-08-20 15:47:43,940 INFO  commons.WebKeywords - Finding web element TXA_ADDRESS
+2022-08-20 15:47:43,948 INFO  commons.WebKeywords - Found 1 web element TXA_ADDRESS 
+2022-08-20 15:47:43,948 INFO  commons.WebKeywords -  Scrolling into view element TXA_ADDRESS
+2022-08-20 15:47:43,956 INFO  commons.WebKeywords - Scrolled into viewed  element TXA_ADDRESS
+2022-08-20 15:47:43,956 INFO  commons.WebKeywords - Clearing web element 'TXA_ADDRESS'
+2022-08-20 15:47:43,980 INFO  commons.WebKeywords - Cleared web element 'TXA_ADDRESS' successfully
+2022-08-20 15:47:44,051 INFO  commons.WebKeywords - Set text Hanoi 
+ Vietnam to web element TXA_ADDRESS successfully
+2022-08-20 15:47:44,052 INFO  commons.WebKeywords - Getting locator from element TXT_CITY
+2022-08-20 15:47:44,055 INFO  commons.WebKeywords - Got locator from element TXT_CITY. Locator is //input[@name='city']
+2022-08-20 15:47:44,055 INFO  commons.WebKeywords - Finding web element TXT_CITY
+2022-08-20 15:47:44,069 INFO  commons.WebKeywords - Found 1 web element TXT_CITY 
+2022-08-20 15:47:44,082 INFO  commons.WebKeywords - Getting locator from element TXT_CITY
+2022-08-20 15:47:44,082 INFO  commons.WebKeywords - Got locator from element TXT_CITY. Locator is //input[@name='city']
+2022-08-20 15:47:44,082 INFO  commons.WebKeywords - Finding web element TXT_CITY
+2022-08-20 15:47:44,094 INFO  commons.WebKeywords - Found 1 web element TXT_CITY 
+2022-08-20 15:47:44,094 INFO  commons.WebKeywords -  Scrolling into view element TXT_CITY
+2022-08-20 15:47:44,105 INFO  commons.WebKeywords - Scrolled into viewed  element TXT_CITY
+2022-08-20 15:47:44,106 INFO  commons.WebKeywords - Clearing web element 'TXT_CITY'
+2022-08-20 15:47:44,150 INFO  commons.WebKeywords - Cleared web element 'TXT_CITY' successfully
+2022-08-20 15:47:44,217 INFO  commons.WebKeywords - Set text Hanoi to web element TXT_CITY successfully
+2022-08-20 15:47:44,217 INFO  commons.WebKeywords - Getting locator from element TXT_STATE
+2022-08-20 15:47:44,218 INFO  commons.WebKeywords - Got locator from element TXT_STATE. Locator is //input[@name='state']
+2022-08-20 15:47:44,218 INFO  commons.WebKeywords - Finding web element TXT_STATE
+2022-08-20 15:47:44,234 INFO  commons.WebKeywords - Found 1 web element TXT_STATE 
+2022-08-20 15:47:44,250 INFO  commons.WebKeywords - Getting locator from element TXT_STATE
+2022-08-20 15:47:44,250 INFO  commons.WebKeywords - Got locator from element TXT_STATE. Locator is //input[@name='state']
+2022-08-20 15:47:44,250 INFO  commons.WebKeywords - Finding web element TXT_STATE
+2022-08-20 15:47:44,259 INFO  commons.WebKeywords - Found 1 web element TXT_STATE 
+2022-08-20 15:47:44,259 INFO  commons.WebKeywords -  Scrolling into view element TXT_STATE
+2022-08-20 15:47:44,265 INFO  commons.WebKeywords - Scrolled into viewed  element TXT_STATE
+2022-08-20 15:47:44,265 INFO  commons.WebKeywords - Clearing web element 'TXT_STATE'
+2022-08-20 15:47:44,292 INFO  commons.WebKeywords - Cleared web element 'TXT_STATE' successfully
+2022-08-20 15:47:44,386 INFO  commons.WebKeywords - Set text Hadong to web element TXT_STATE successfully
+2022-08-20 15:47:44,387 INFO  commons.WebKeywords - Getting locator from element TXT_PIN
+2022-08-20 15:47:44,388 INFO  commons.WebKeywords - Got locator from element TXT_PIN. Locator is //input[@name='pinno']
+2022-08-20 15:47:44,388 INFO  commons.WebKeywords - Finding web element TXT_PIN
+2022-08-20 15:47:44,412 INFO  commons.WebKeywords - Found 1 web element TXT_PIN 
+2022-08-20 15:47:44,429 INFO  commons.WebKeywords - Getting locator from element TXT_PIN
+2022-08-20 15:47:44,429 INFO  commons.WebKeywords - Got locator from element TXT_PIN. Locator is //input[@name='pinno']
+2022-08-20 15:47:44,429 INFO  commons.WebKeywords - Finding web element TXT_PIN
+2022-08-20 15:47:44,438 INFO  commons.WebKeywords - Found 1 web element TXT_PIN 
+2022-08-20 15:47:44,438 INFO  commons.WebKeywords -  Scrolling into view element TXT_PIN
+2022-08-20 15:47:44,445 INFO  commons.WebKeywords - Scrolled into viewed  element TXT_PIN
+2022-08-20 15:47:44,445 INFO  commons.WebKeywords - Clearing web element 'TXT_PIN'
+2022-08-20 15:47:44,471 INFO  commons.WebKeywords - Cleared web element 'TXT_PIN' successfully
+2022-08-20 15:47:44,522 INFO  commons.WebKeywords - Set text 123456 to web element TXT_PIN successfully
+2022-08-20 15:47:44,523 INFO  commons.WebKeywords - Getting locator from element TXT_MOBILE_NUMBER
+2022-08-20 15:47:44,523 INFO  commons.WebKeywords - Got locator from element TXT_MOBILE_NUMBER. Locator is //input[@name='telephoneno']
+2022-08-20 15:47:44,523 INFO  commons.WebKeywords - Finding web element TXT_MOBILE_NUMBER
+2022-08-20 15:47:44,534 INFO  commons.WebKeywords - Found 1 web element TXT_MOBILE_NUMBER 
+2022-08-20 15:47:44,554 INFO  commons.WebKeywords - Getting locator from element TXT_MOBILE_NUMBER
+2022-08-20 15:47:44,554 INFO  commons.WebKeywords - Got locator from element TXT_MOBILE_NUMBER. Locator is //input[@name='telephoneno']
+2022-08-20 15:47:44,554 INFO  commons.WebKeywords - Finding web element TXT_MOBILE_NUMBER
+2022-08-20 15:47:44,561 INFO  commons.WebKeywords - Found 1 web element TXT_MOBILE_NUMBER 
+2022-08-20 15:47:44,561 INFO  commons.WebKeywords -  Scrolling into view element TXT_MOBILE_NUMBER
+2022-08-20 15:47:44,568 INFO  commons.WebKeywords - Scrolled into viewed  element TXT_MOBILE_NUMBER
+2022-08-20 15:47:44,568 INFO  commons.WebKeywords - Clearing web element 'TXT_MOBILE_NUMBER'
+2022-08-20 15:47:44,600 INFO  commons.WebKeywords - Cleared web element 'TXT_MOBILE_NUMBER' successfully
+2022-08-20 15:47:44,734 INFO  commons.WebKeywords - Set text 9020594424 to web element TXT_MOBILE_NUMBER successfully
+2022-08-20 15:47:44,735 INFO  commons.WebKeywords - Getting locator from element TXT_EMAIL
+2022-08-20 15:47:44,736 INFO  commons.WebKeywords - Got locator from element TXT_EMAIL. Locator is //input[@name='emailid']
+2022-08-20 15:47:44,736 INFO  commons.WebKeywords - Finding web element TXT_EMAIL
+2022-08-20 15:47:44,747 INFO  commons.WebKeywords - Found 1 web element TXT_EMAIL 
+2022-08-20 15:47:44,760 INFO  commons.WebKeywords - Getting locator from element TXT_EMAIL
+2022-08-20 15:47:44,761 INFO  commons.WebKeywords - Got locator from element TXT_EMAIL. Locator is //input[@name='emailid']
+2022-08-20 15:47:44,761 INFO  commons.WebKeywords - Finding web element TXT_EMAIL
+2022-08-20 15:47:44,768 INFO  commons.WebKeywords - Found 1 web element TXT_EMAIL 
+2022-08-20 15:47:44,768 INFO  commons.WebKeywords -  Scrolling into view element TXT_EMAIL
+2022-08-20 15:47:44,774 INFO  commons.WebKeywords - Scrolled into viewed  element TXT_EMAIL
+2022-08-20 15:47:44,774 INFO  commons.WebKeywords - Clearing web element 'TXT_EMAIL'
+2022-08-20 15:47:44,800 INFO  commons.WebKeywords - Cleared web element 'TXT_EMAIL' successfully
+2022-08-20 15:47:44,962 INFO  commons.WebKeywords - Set text companyEdited243658@gmail.com to web element TXT_EMAIL successfully
+2022-08-20 15:47:44,962 INFO  commons.WebKeywords - Getting locator from element TXT_PASSWORD
+2022-08-20 15:47:44,963 INFO  commons.WebKeywords - Got locator from element TXT_PASSWORD. Locator is //input[@name='password']
+2022-08-20 15:47:44,963 INFO  commons.WebKeywords - Finding web element TXT_PASSWORD
+2022-08-20 15:47:44,979 INFO  commons.WebKeywords - Found 1 web element TXT_PASSWORD 
+2022-08-20 15:47:44,996 INFO  commons.WebKeywords - Getting locator from element TXT_PASSWORD
+2022-08-20 15:47:44,996 INFO  commons.WebKeywords - Got locator from element TXT_PASSWORD. Locator is //input[@name='password']
+2022-08-20 15:47:44,996 INFO  commons.WebKeywords - Finding web element TXT_PASSWORD
+2022-08-20 15:47:45,009 INFO  commons.WebKeywords - Found 1 web element TXT_PASSWORD 
+2022-08-20 15:47:45,010 INFO  commons.WebKeywords -  Scrolling into view element TXT_PASSWORD
+2022-08-20 15:47:45,022 INFO  commons.WebKeywords - Scrolled into viewed  element TXT_PASSWORD
+2022-08-20 15:47:45,023 INFO  commons.WebKeywords - Clearing web element 'TXT_PASSWORD'
+2022-08-20 15:47:45,054 INFO  commons.WebKeywords - Cleared web element 'TXT_PASSWORD' successfully
+2022-08-20 15:47:45,131 INFO  commons.WebKeywords - Set text Test123456@ to web element TXT_PASSWORD successfully
+2022-08-20 15:47:45,131 INFO  commons.WebKeywords - Getting locator from element BTN_SUBMIT
+2022-08-20 15:47:45,132 INFO  commons.WebKeywords - Got locator from element BTN_SUBMIT. Locator is //input[@name='sub']
+2022-08-20 15:47:45,132 INFO  commons.WebKeywords - Finding web element BTN_SUBMIT
+2022-08-20 15:47:45,147 INFO  commons.WebKeywords - Found 1 web element BTN_SUBMIT 
+2022-08-20 15:47:45,148 INFO  commons.WebKeywords - Clicking web element BTN_SUBMIT
+2022-08-20 15:47:45,163 INFO  commons.WebKeywords - Getting locator from element BTN_SUBMIT
+2022-08-20 15:47:45,163 INFO  commons.WebKeywords - Got locator from element BTN_SUBMIT. Locator is //input[@name='sub']
+2022-08-20 15:47:45,163 INFO  commons.WebKeywords - Finding web element BTN_SUBMIT
+2022-08-20 15:47:45,180 INFO  commons.WebKeywords - Found 1 web element BTN_SUBMIT 
+2022-08-20 15:47:45,181 INFO  commons.WebKeywords -  Scrolling into view element BTN_SUBMIT
+2022-08-20 15:47:45,191 INFO  commons.WebKeywords - Scrolled into viewed  element BTN_SUBMIT
+2022-08-20 15:47:47,183 INFO  commons.WebKeywords - Clicked web element BTN_SUBMIT successfully
+2022-08-20 15:47:47,186 INFO  commons.WebKeywords - Waiting for  element MSG_SUCCESSFULLY_REGISTERED visible
+2022-08-20 15:47:47,214 INFO  commons.WebKeywords - Verified element MSG_SUCCESSFULLY_REGISTERED is visible
+2022-08-20 15:47:47,215 INFO  commons.WebKeywords - Getting locator from element TEXT_CUSTOMER_NAME
+2022-08-20 15:47:47,215 INFO  commons.WebKeywords - Got locator from element TEXT_CUSTOMER_NAME. Locator is //td[text()='Customer Name']//following-sibling::td
+2022-08-20 15:47:47,215 INFO  commons.WebKeywords - Finding web element TEXT_CUSTOMER_NAME
+2022-08-20 15:47:47,227 INFO  commons.WebKeywords - Found 1 web element TEXT_CUSTOMER_NAME 
+2022-08-20 15:47:47,227 INFO  commons.WebKeywords - Getting text from element TEXT_CUSTOMER_NAME
+2022-08-20 15:47:47,518 INFO  commons.WebKeywords - Got text from element TEXT_CUSTOMER_NAME successfully. Text is hue vu thi
+2022-08-20 15:47:47,520 INFO  commons.BaseTest - Actual = hue vu thi
+2022-08-20 15:47:47,520 INFO  commons.BaseTest - Expected = hue vu thi
+2022-08-20 15:47:47,524 INFO  commons.BaseTest - Compare value = true
+2022-08-20 15:47:47,524 INFO  commons.BaseTest - === PASSED ===
+2022-08-20 15:47:47,525 INFO  commons.WebKeywords - Getting locator from element TEXT_CUSTOMER_GENDER
+2022-08-20 15:47:47,525 INFO  commons.WebKeywords - Got locator from element TEXT_CUSTOMER_GENDER. Locator is //td[text()='Gender']//following-sibling::td
+2022-08-20 15:47:47,525 INFO  commons.WebKeywords - Finding web element TEXT_CUSTOMER_GENDER
+2022-08-20 15:47:47,566 INFO  commons.WebKeywords - Found 1 web element TEXT_CUSTOMER_GENDER 
+2022-08-20 15:47:47,566 INFO  commons.WebKeywords - Getting text from element TEXT_CUSTOMER_GENDER
+2022-08-20 15:47:47,590 INFO  commons.WebKeywords - Got text from element TEXT_CUSTOMER_GENDER successfully. Text is male
+2022-08-20 15:47:47,590 INFO  commons.BaseTest - Actual = male
+2022-08-20 15:47:47,591 INFO  commons.BaseTest - Expected = male
+2022-08-20 15:47:47,591 INFO  commons.BaseTest - Compare value = true
+2022-08-20 15:47:47,591 INFO  commons.BaseTest - === PASSED ===
+2022-08-20 15:47:47,591 INFO  commons.WebKeywords - Getting locator from element TEXT_CUSTOMER_BIRTHDATE
+2022-08-20 15:47:47,592 INFO  commons.WebKeywords - Got locator from element TEXT_CUSTOMER_BIRTHDATE. Locator is //td[text()='Birthdate']//following-sibling::td
+2022-08-20 15:47:47,592 INFO  commons.WebKeywords - Finding web element TEXT_CUSTOMER_BIRTHDATE
+2022-08-20 15:47:47,607 INFO  commons.WebKeywords - Found 1 web element TEXT_CUSTOMER_BIRTHDATE 
+2022-08-20 15:47:47,608 INFO  commons.WebKeywords - Getting text from element TEXT_CUSTOMER_BIRTHDATE
+2022-08-20 15:47:47,620 INFO  commons.WebKeywords - Got text from element TEXT_CUSTOMER_BIRTHDATE successfully. Text is 1994-09-14
+2022-08-20 15:47:47,620 INFO  commons.BaseTest - Actual = 1994-09-14
+2022-08-20 15:47:47,620 INFO  commons.BaseTest - Expected = 1994-09-14
+2022-08-20 15:47:47,620 INFO  commons.BaseTest - Compare value = true
+2022-08-20 15:47:47,620 INFO  commons.BaseTest - === PASSED ===
+2022-08-20 15:47:47,621 INFO  commons.WebKeywords - Getting locator from element TEXT_CUSTOMER_ADDRESS
+2022-08-20 15:47:47,621 INFO  commons.WebKeywords - Got locator from element TEXT_CUSTOMER_ADDRESS. Locator is //td[text()='Address']//following-sibling::td
+2022-08-20 15:47:47,621 INFO  commons.WebKeywords - Finding web element TEXT_CUSTOMER_ADDRESS
+2022-08-20 15:47:47,635 INFO  commons.WebKeywords - Found 1 web element TEXT_CUSTOMER_ADDRESS 
+2022-08-20 15:47:47,636 INFO  commons.WebKeywords - Getting text from element TEXT_CUSTOMER_ADDRESS
+2022-08-20 15:47:47,674 INFO  commons.WebKeywords - Got text from element TEXT_CUSTOMER_ADDRESS successfully. Text is Hanoi Vietnam
+2022-08-20 15:47:47,675 INFO  commons.BaseTest - Actual = Hanoi Vietnam
+2022-08-20 15:47:47,675 INFO  commons.BaseTest - Expected = Hanoi Vietnam
+2022-08-20 15:47:47,675 INFO  commons.BaseTest - Compare value = true
+2022-08-20 15:47:47,675 INFO  commons.BaseTest - === PASSED ===
+2022-08-20 15:47:47,675 INFO  commons.WebKeywords - Getting locator from element TEXT_CUSTOMER_CITY
+2022-08-20 15:47:47,676 INFO  commons.WebKeywords - Got locator from element TEXT_CUSTOMER_CITY. Locator is //td[text()='City']//following-sibling::td
+2022-08-20 15:47:47,676 INFO  commons.WebKeywords - Finding web element TEXT_CUSTOMER_CITY
+2022-08-20 15:47:47,690 INFO  commons.WebKeywords - Found 1 web element TEXT_CUSTOMER_CITY 
+2022-08-20 15:47:47,690 INFO  commons.WebKeywords - Getting text from element TEXT_CUSTOMER_CITY
+2022-08-20 15:47:47,705 INFO  commons.WebKeywords - Got text from element TEXT_CUSTOMER_CITY successfully. Text is Hanoi
+2022-08-20 15:47:47,705 INFO  commons.BaseTest - Actual = Hanoi
+2022-08-20 15:47:47,705 INFO  commons.BaseTest - Expected = Hanoi
+2022-08-20 15:47:47,705 INFO  commons.BaseTest - Compare value = true
+2022-08-20 15:47:47,705 INFO  commons.BaseTest - === PASSED ===
+2022-08-20 15:47:47,706 INFO  commons.WebKeywords - Getting locator from element TEXT_CUSTOMER_STATE
+2022-08-20 15:47:47,706 INFO  commons.WebKeywords - Got locator from element TEXT_CUSTOMER_STATE. Locator is //td[text()='State']//following-sibling::td
+2022-08-20 15:47:47,706 INFO  commons.WebKeywords - Finding web element TEXT_CUSTOMER_STATE
+2022-08-20 15:47:47,782 INFO  commons.WebKeywords - Found 1 web element TEXT_CUSTOMER_STATE 
+2022-08-20 15:47:47,783 INFO  commons.WebKeywords - Getting text from element TEXT_CUSTOMER_STATE
+2022-08-20 15:47:47,802 INFO  commons.WebKeywords - Got text from element TEXT_CUSTOMER_STATE successfully. Text is Hadong
+2022-08-20 15:47:47,802 INFO  commons.BaseTest - Actual = Hadong
+2022-08-20 15:47:47,802 INFO  commons.BaseTest - Expected = Hadong
+2022-08-20 15:47:47,803 INFO  commons.BaseTest - Compare value = true
+2022-08-20 15:47:47,803 INFO  commons.BaseTest - === PASSED ===
+2022-08-20 15:47:47,804 INFO  commons.WebKeywords - Getting locator from element TEXT_CUSTOMER_PIN
+2022-08-20 15:47:47,804 INFO  commons.WebKeywords - Got locator from element TEXT_CUSTOMER_PIN. Locator is //td[text()='Pin']//following-sibling::td
+2022-08-20 15:47:47,804 INFO  commons.WebKeywords - Finding web element TEXT_CUSTOMER_PIN
+2022-08-20 15:47:47,830 INFO  commons.WebKeywords - Found 1 web element TEXT_CUSTOMER_PIN 
+2022-08-20 15:47:47,831 INFO  commons.WebKeywords - Getting text from element TEXT_CUSTOMER_PIN
+2022-08-20 15:47:47,849 INFO  commons.WebKeywords - Got text from element TEXT_CUSTOMER_PIN successfully. Text is 123456
+2022-08-20 15:47:47,849 INFO  commons.BaseTest - Actual = 123456
+2022-08-20 15:47:47,849 INFO  commons.BaseTest - Expected = 123456
+2022-08-20 15:47:47,849 INFO  commons.BaseTest - Compare value = true
+2022-08-20 15:47:47,849 INFO  commons.BaseTest - === PASSED ===
+2022-08-20 15:47:47,850 INFO  commons.WebKeywords - Getting locator from element TEXT_CUSTOMER_MOBILE
+2022-08-20 15:47:47,850 INFO  commons.WebKeywords - Got locator from element TEXT_CUSTOMER_MOBILE. Locator is //td[text()='Mobile No.']//following-sibling::td
+2022-08-20 15:47:47,850 INFO  commons.WebKeywords - Finding web element TEXT_CUSTOMER_MOBILE
+2022-08-20 15:47:47,864 INFO  commons.WebKeywords - Found 1 web element TEXT_CUSTOMER_MOBILE 
+2022-08-20 15:47:47,864 INFO  commons.WebKeywords - Getting text from element TEXT_CUSTOMER_MOBILE
+2022-08-20 15:47:47,876 INFO  commons.WebKeywords - Got text from element TEXT_CUSTOMER_MOBILE successfully. Text is 9020594424
+2022-08-20 15:47:47,877 INFO  commons.BaseTest - Actual = 9020594424
+2022-08-20 15:47:47,877 INFO  commons.BaseTest - Expected = 9020594424
+2022-08-20 15:47:47,877 INFO  commons.BaseTest - Compare value = true
+2022-08-20 15:47:47,877 INFO  commons.BaseTest - === PASSED ===
+2022-08-20 15:47:47,877 INFO  commons.WebKeywords - Getting locator from element TEXT_CUSTOMER_EMAIL
+2022-08-20 15:47:47,877 INFO  commons.WebKeywords - Got locator from element TEXT_CUSTOMER_EMAIL. Locator is //td[text()='Email']//following-sibling::td
+2022-08-20 15:47:47,878 INFO  commons.WebKeywords - Finding web element TEXT_CUSTOMER_EMAIL
+2022-08-20 15:47:47,890 INFO  commons.WebKeywords - Found 1 web element TEXT_CUSTOMER_EMAIL 
+2022-08-20 15:47:47,890 INFO  commons.WebKeywords - Getting text from element TEXT_CUSTOMER_EMAIL
+2022-08-20 15:47:47,904 INFO  commons.WebKeywords - Got text from element TEXT_CUSTOMER_EMAIL successfully. Text is companyEdited243658@gmail.com
+2022-08-20 15:47:47,905 INFO  commons.BaseTest - Actual = companyEdited243658@gmail.com
+2022-08-20 15:47:47,905 INFO  commons.BaseTest - Expected = companyEdited243658@gmail.com
+2022-08-20 15:47:47,905 INFO  commons.BaseTest - Compare value = true
+2022-08-20 15:47:47,905 INFO  commons.BaseTest - === PASSED ===
+2022-08-20 15:47:47,908 INFO  commons.BaseTest - ---------- Add_New_Customer_Account---------------- SUCCESS test ----------
+2022-08-20 15:47:48,159 INFO  commons.BaseTest - OS name = mac os x
+2022-08-20 15:47:48,578 INFO  commons.BaseTest - ---------- QUIT BROWSER SUCCESS ----------
+2022-08-20 15:47:48,581 INFO  commons.BaseTest - ---------- Jitera---------------- FINISHED test ----------

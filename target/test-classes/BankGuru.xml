@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="listeners.ReportNGListener"/>
+        <listener class-name="listeners.MethodListener"/>
+
+    </listeners>
+
+    <test name="Jitera" preserve-order="true">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="environment" value="dev"/>
+        <classes>
+            <class name="com.bankguru.account.AddNewCustomerAccount"></class>
+        </classes>
+
+    </test>
+
+</suite>

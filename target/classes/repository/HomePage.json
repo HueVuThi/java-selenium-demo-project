@@ -1,0 +1,6 @@
+{
+"TXT_WELCOME": "//marquee[@class='heading3' and contains(.,'Welcome')]"
+
+
+
+}
